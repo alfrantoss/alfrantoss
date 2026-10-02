@@ -28,7 +28,7 @@ Code. Build. Solve.
 ![Grafik Kontribusi](https://github-readme-streak-stats.herokuapp.com/?user=SatriyoRizkyansah&theme=dracula&hide_border=true)
 
 <div align="center">
-  <a href="https://satriyorizkyansah.tech">
+  <a href="https://myporto-puce.vercel.app/">
     <img src="https://img.shields.io/badge/Website-Personal-blue?style=flat-square&logo=google-chrome" />
   </a>
 </div>
