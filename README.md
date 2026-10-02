@@ -1,21 +1,39 @@
 <div align="center">
-
-# Hi there 👋, I'm Muhammad Tri Putro A
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Building+modern+web+apps;Clean+code+%26+good+architecture" alt="Typing SVG" />
-</p>
-
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align:middle"/>
-  Welcome to my profile!
-</h3>
-
-<p align="center">
-  <a href="mailto:tri.putro1717@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://myporto-puce.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-tri-putro-alfaz-dzikri-992739223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20[NAMA]!&fontSize=70" />
 </div>
 
+### 💫 Tentang Saya
+- 🔭 Sedang mengerjakan: **[PROYEK]**
+- 🌱 Belajar: **[TEKNOLOGI]**
+- 💬 Tanya saya tentang: **[KEAHLIAN]**
+
+---
+
+### 🛠️ Tech Stack
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 Statistik GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=dracula&count_private=true" alt="Statistik [USERNAME]" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=dracula&hide_border=true" alt="Bahasa Populer [USERNAME]" />
+</div>
+
+---
+
+### 🔥 Kontribusi
+![Grafik Kontribusi [USERNAME]](https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=dracula&hide_border=true)
+
+<div align="center">
+  <a href="https://[USERNAME].tech">
+    <img src="https://img.shields.io/badge/Website-Personal-blue?style=flat-square&logo=google-chrome" />
+  </a>
+</div>
