@@ -1,8 +1,8 @@
-# <video src="https://github.com/user-attachments/assets/dfa74ea9-58e2-4b4c-aee3-5f3f75acfe00" width="45" height="45"></video> Muhammad Tri Putro A
+</video> Muhammad Tri Putro A
 
 **`Full-Stack Web Developer & Tech Enthusiast`**
 
-Making things work with code.
+Code. Build. Solve.
 
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
