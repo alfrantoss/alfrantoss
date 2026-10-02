@@ -1,12 +1,8 @@
-# <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" style="height:45px;" /> Muhammad Tri Putro A   
-<!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
+# <img src="./avatar.png" width="40" height="40" style="border-radius: 50%;" /> Muhammad Tri Putro A
 
 **`Full-Stack Web Developer & Tech Enthusiast`**
 
-<!-- I am a full-stack web developer, passionate about building digital solutions from the ground up. From planning and design to implementation, I focus on efficiency and functionality in every project. I enjoy solving complex problems with clean and scalable code, continuously learning new technologies, and improving my development workflow.
--->
 Making things work with code.
-
 
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -21,18 +17,18 @@ Making things work with code.
 
 ### 📊 Statistik GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=dracula&count_private=true" alt="Statistik [USERNAME]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatriyoRizkyansah&show_icons=true&theme=dracula&count_private=true" alt="Statistik" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=dracula&hide_border=true" alt="Bahasa Populer [USERNAME]" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriyoRizkyansah&layout=compact&theme=dracula&hide_border=true" alt="Bahasa Populer" />
 </div>
 
 ---
 
 ### 🔥 Kontribusi
-![Grafik Kontribusi [USERNAME]](https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=dracula&hide_border=true)
+![Grafik Kontribusi](https://github-readme-streak-stats.herokuapp.com/?user=SatriyoRizkyansah&theme=dracula&hide_border=true)
 
 <div align="center">
-  <a href="https://[USERNAME].tech">
+  <a href="https://satriyorizkyansah.tech">
     <img src="https://img.shields.io/badge/Website-Personal-blue?style=flat-square&logo=google-chrome" />
   </a>
 </div>
