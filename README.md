@@ -1,4 +1,4 @@
-</video> Muhammad Tri Putro A
+**`Muhammad Tri Putro A`**
 
 **`Full-Stack Web Developer & Tech Enthusiast`**
 
