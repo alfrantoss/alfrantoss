@@ -1,4 +1,4 @@
-# <img src="(https://github.com/alvindioaul/heartfit/issues/2#issue-5673362445)" width="45" height="45" style="vertical-align: middle;" /> Muhammad Tri Putro A
+# <img src="<img width="1254" height="1254" alt="Image" src="https://github.com/user-attachments/assets/119493d4-78ad-45b6-93e2-f9eedf2484b4" />" width="45" height="45" style="vertical-align: middle;" /> Muhammad Tri Putro A
 
 **`Full-Stack Web Developer & Tech Enthusiast`**
 
