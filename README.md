@@ -1,4 +1,4 @@
-# <img src="./avatar.png" width="40" height="40" style="border-radius: 50%;" /> Muhammad Tri Putro A
+# <img src="[./avatar.png](https://github.com/alvindioaul/heartfit/issues/2#issue-5673362445)" width="40" height="40" style="border-radius: 50%;" /> Muhammad Tri Putro A
 
 **`Full-Stack Web Developer & Tech Enthusiast`**
 
