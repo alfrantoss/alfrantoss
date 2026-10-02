@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" style="height:45px;" /> Satriyo Rizkyansah   
+# <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" style="height:45px;" /> Muhammad Tri Putro A   
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
 **`Full-Stack Web Developer & Tech Enthusiast`**
@@ -7,12 +7,6 @@
 -->
 Making things work with code.
 
-### 💫 Tentang Saya
-- 🔭 Sedang mengerjakan: **[PROYEK]**
-- 🌱 Belajar: **[TEKNOLOGI]**
-- 💬 Tanya saya tentang: **[KEAHLIAN]**
-
----
 
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
