@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20[NAMA]!&fontSize=70" />
-</div>
+# <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" style="height:45px;" /> Satriyo Rizkyansah   
+<!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
+
+**`Full-Stack Web Developer & Tech Enthusiast`**
+
+<!-- I am a full-stack web developer, passionate about building digital solutions from the ground up. From planning and design to implementation, I focus on efficiency and functionality in every project. I enjoy solving complex problems with clean and scalable code, continuously learning new technologies, and improving my development workflow.
+-->
+Making things work with code.
 
 ### 💫 Tentang Saya
 - 🔭 Sedang mengerjakan: **[PROYEK]**
