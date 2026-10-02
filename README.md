@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/c16bc810-efc9-4239-9b38-334ff1d31b64" width="45" height="45" style="vertical-align: middle;" /> Muhammad Tri Putro A
+# <img src="https://github.com/user-attachments/assets/dfa74ea9-58e2-4b4c-aee3-5f3f75acfe00" width="45" height="45" style="vertical-align: middle;" /> Muhammad Tri Putro A
 
 **`Full-Stack Web Developer & Tech Enthusiast`**
 
